@@ -9,7 +9,7 @@
 ## Files
 - **index.html** – Web summary page with project info and links  
 - **Text_Mining_Presentation.pptx** – Presentation slides  
-- **text_mining_preprocessing_demo.py** – Interactive Python demo  
+- **textMining_PreProcessing.ipynb** – Interactive Python demo  
 
 ### How to Run the Code
 1. Download the `.py` file or copy it into your local IDE.  
