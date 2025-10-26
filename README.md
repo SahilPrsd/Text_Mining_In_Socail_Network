@@ -17,4 +17,4 @@
 3. Follow on-screen instructions to enter tweets or use defaults.  
 
 ### Live Demo Page
-👉 [Open Web Page](https://SahilPrsd.github.io/Text-Mining-in-Social-Networks/)
+👉 [Open Web Page](https://sahilprsd.github.io/Text-Mining-In-Social-Network/)
